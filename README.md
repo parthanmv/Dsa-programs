@@ -1,4 +1,4 @@
-# 🚀 DSA Programs
+tfw# 🚀 DSA Programs
 
 > A personal repository where I document my journey of learning Data Structures and Algorithms using Python.
 
@@ -57,6 +57,4 @@ The goal is to:
 
 Every solution added to this repository represents one step toward becoming a better software engineer.
 
----
 
-### ⭐ If you find this repository helpful, don't forget to star it!
